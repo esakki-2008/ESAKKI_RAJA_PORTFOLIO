@@ -419,7 +419,10 @@ npm run build
 Preview the production build:
 
 npm run preview
-📁 Project Structure
+
+## 📁 Project Structure
+
+<pre>
 ESAKKI_RAJA_PORTFOLIO/
 │
 ├── public/
@@ -440,6 +443,7 @@ ESAKKI_RAJA_PORTFOLIO/
 ├── tsconfig.node.json
 ├── vite.config.ts
 └── README.md
+</pre>
 
 The exact structure may vary depending on the current implementation.
 
