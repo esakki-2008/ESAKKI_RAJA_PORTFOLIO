@@ -135,11 +135,11 @@ The website focuses on creating a professional online presence and helping poten
 
 ### Live Demo
 
-Add your Level Up Gym live demo link here.
+https://level-up-gym-1.ai.studio
 
 ### GitHub
 
-Add your Level Up Gym repository link here.
+https://github.com/esakki-2008/Level-Up-Gym
 
 > **Note:** This project is a client demonstration website. Business information, images, testimonials, and other content should be verified before commercial deployment.
 
@@ -174,11 +174,11 @@ The website focuses on presenting a modern dining experience while allowing pote
 
 ### Live Demo
 
-Add your Spice Haven live demo link here.
+https://spice-haven-fine-dining-authentic-flavours.ai.studio
 
 ### GitHub
 
-Add your Spice Haven repository link here.
+https://github.com/esakki-2008/Spice-Haven
 
 > **Note:** This project is a client demonstration website. Restaurant branding, images, names, and other content are intended for demonstration purposes unless otherwise specified.
 
